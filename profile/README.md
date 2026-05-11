@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Paperlabs/.github/main/assets/peperlabs-logo-sovereign.png" width="60%" alt="Peperlabs Sovereign Logo">
+<img src="https://raw.githubusercontent.com/peperlabs/.github/main/assets/peperlabs-logo-sovereign.png" width="60%" alt="Peperlabs Sovereign Logo">
 
 <br><br>
 
