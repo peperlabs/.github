@@ -48,7 +48,7 @@ We do not suppress the autonomy of agents. Instead, we engineer **Deterministic 
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIEVE-The_Threshold-FF4500?style=flat-square" /> &nbsp;
-  <img src="https://img.shields.io/badge/TWINE-The_Harness-FF4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/BOLTER-The_Harness-FF4500?style=flat-square" />
 </p>
 
 <br>
